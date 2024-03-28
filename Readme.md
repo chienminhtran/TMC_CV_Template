@@ -1,0 +1,4 @@
+<h1 align="center">Hi 👋, I'm Tran Minh Chien</h1>
+<h3 align="center">A passionate frontend developer from HCM City</h3>
+
+<p align="left"> ￼ </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> ￼ </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> ￼ </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> ￼ </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> ￼ </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> ￼ </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="4
